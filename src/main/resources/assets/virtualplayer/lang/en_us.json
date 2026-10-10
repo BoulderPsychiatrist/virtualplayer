@@ -1,0 +1,19 @@
+{
+  "key.virtualplayer.menu": "Open Virtual Player menu",
+  "key.categories.virtualplayer": "Virtual Player",
+  "gui.virtualplayer.title": "Virtual Players",
+  "gui.virtualplayer.name": "Name (empty = auto)",
+  "gui.virtualplayer.spawn": "Spawn here",
+  "gui.virtualplayer.remove": "Remove by name",
+  "gui.virtualplayer.remove_all": "Remove all",
+  "gui.virtualplayer.active": "Active virtual players:",
+  "gui.virtualplayer.none": "none",
+  "msg.virtualplayer.spawned": "Virtual player %s spawned",
+  "msg.virtualplayer.removed": "Virtual player %s removed",
+  "msg.virtualplayer.removed_all": "Removed virtual players: %s",
+  "msg.virtualplayer.no_permission": "You are not allowed to manage virtual players",
+  "msg.virtualplayer.limit": "Limit reached: %s virtual players",
+  "msg.virtualplayer.bad_name": "Invalid name (use 1-16 letters, digits or _)",
+  "msg.virtualplayer.name_taken": "Name %s is already in use",
+  "msg.virtualplayer.not_found": "Virtual player %s not found"
+}

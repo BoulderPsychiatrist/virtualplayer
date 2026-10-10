@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="virtualplayer"
+version="1.0.0"
+displayName="Virtual Player"
+authors="xminer"
+description='''
+Spawn virtual (fake) players from an in-game menu. They keep chunks loaded and let mobs spawn around them, like a real AFK player.
+'''
+
+[[dependencies.virtualplayer]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.virtualplayer]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"

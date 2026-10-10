@@ -1,0 +1,19 @@
+{
+  "key.virtualplayer.menu": "Открыть меню виртуальных игроков",
+  "key.categories.virtualplayer": "Virtual Player",
+  "gui.virtualplayer.title": "Виртуальные игроки",
+  "gui.virtualplayer.name": "Имя (пусто = авто)",
+  "gui.virtualplayer.spawn": "Заспавнить здесь",
+  "gui.virtualplayer.remove": "Удалить по имени",
+  "gui.virtualplayer.remove_all": "Удалить всех",
+  "gui.virtualplayer.active": "Активные виртуальные игроки:",
+  "gui.virtualplayer.none": "нет",
+  "msg.virtualplayer.spawned": "Виртуальный игрок %s заспавнен",
+  "msg.virtualplayer.removed": "Виртуальный игрок %s удалён",
+  "msg.virtualplayer.removed_all": "Удалено виртуальных игроков: %s",
+  "msg.virtualplayer.no_permission": "У тебя нет прав управлять виртуальными игроками",
+  "msg.virtualplayer.limit": "Достигнут лимит: %s виртуальных игроков",
+  "msg.virtualplayer.bad_name": "Неверное имя (1-16 символов: буквы, цифры или _)",
+  "msg.virtualplayer.name_taken": "Имя %s уже занято",
+  "msg.virtualplayer.not_found": "Виртуальный игрок %s не найден"
+}
